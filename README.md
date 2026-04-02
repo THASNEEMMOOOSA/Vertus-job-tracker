@@ -106,9 +106,9 @@ This project was built to showcase **full-stack engineering capabilities**, **cl
 *Add your screenshot here*
 
 ```md
-![Dashboard Screenshot](screenshots/front1.png)
-![Dashboard Screenshot](screenshots/front2.png)
-![Dashboard Screenshot](screenshots/front3.png)
+![Dashboard Screenshot](https://github.com/THASNEEMMOOOSA/Vertus-job-tracker/blob/main/screenshots/front1.png)
+![Dashboard Screenshot](https://github.com/THASNEEMMOOOSA/Vertus-job-tracker/blob/main/screenshots/front2.png)
+![Dashboard Screenshot](https://github.com/THASNEEMMOOOSA/Vertus-job-tracker/blob/main/screenshots/front3.png)
 
 ```
 
