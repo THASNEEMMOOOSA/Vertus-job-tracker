@@ -1,4 +1,4 @@
-# frontend\src\assets\vertusf.png  Vertus -  Job Tracker & Analytics Platform
+# <img src="https://raw.githubusercontent.com/THASNEEMMOOOSA/Vertus-job-tracker/main/frontend/src/assets/vertusf.png" alt="Vertus Logo" width="50" style="vertical-align:middle;"> Vertus -  Job Tracker & Analytics Platform
 
 A full-stack SaaS-style application designed to help users **track job applications, manage interview pipelines, and gain actionable insights through analytics dashboards**.
 
