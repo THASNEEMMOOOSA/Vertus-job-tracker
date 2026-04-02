@@ -1,4 +1,4 @@
-# 🚀 Vertus -  Job Tracker & Analytics Platform
+# frontend\src\assets\vertusf.png  Vertus -  Job Tracker & Analytics Platform
 
 A full-stack SaaS-style application designed to help users **track job applications, manage interview pipelines, and gain actionable insights through analytics dashboards**.
 
@@ -105,10 +105,15 @@ This project was built to showcase **full-stack engineering capabilities**, **cl
 
 *Add your screenshot here*
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/THASNEEMMOOOSA/Vertus-job-tracker/main/screenshots/front1.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/THASNEEMMOOOSA/Vertus-job-tracker/main/screenshots/front2.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/THASNEEMMOOOSA/Vertus-job-tracker/main/screenshots/front3.png)
+## 📸 Application Screenshots
 
+### Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/THASNEEMMOOOSA/Vertus-job-tracker/main/screenshots/front1.png" alt="Dashboard Screenshot 1" width="300" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/THASNEEMMOOOSA/Vertus-job-tracker/main/screenshots/front2.png" alt="Dashboard Screenshot 2" width="300" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/THASNEEMMOOOSA/Vertus-job-tracker/main/screenshots/front3.png" alt="Dashboard Screenshot 3" width="300" />
+</p>
 ---
 
 ## 📁 Project Structure
