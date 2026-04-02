@@ -241,6 +241,7 @@ This project was built to demonstrate:
 ## Author
 
 **THASNEEM MOOSA**
+
 Full Stack Developer | React | FastAPI | Python | AWS | PostgreSQL
 
 LinkedIn:  https://www.linkedin.com/in/thasneem-moosa
