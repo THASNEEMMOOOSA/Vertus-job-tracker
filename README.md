@@ -106,7 +106,10 @@ This project was built to showcase **full-stack engineering capabilities**, **cl
 *Add your screenshot here*
 
 ```md
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](./screenshots/front1.png)
+![Dashboard Screenshot](./screenshots/front2.png)
+![Dashboard Screenshot](./screenshots/front3.png)
+
 ```
 
 ---
