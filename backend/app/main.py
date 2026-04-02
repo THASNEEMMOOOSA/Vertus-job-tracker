@@ -7,7 +7,10 @@ Base.metadata.create_all(bind=engine)
 app = FastAPI(title="Smart Job Tracker API")
 
 app.include_router(auth.router)
+from app.api.routes import auth, jobs
 
+app.include_router(auth.router)
+app.include_router(jobs.router)
 
 @app.get("/")
 def root():
