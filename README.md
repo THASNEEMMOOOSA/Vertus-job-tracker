@@ -1,4 +1,4 @@
-# 🚀 Smart Job Tracker & Analytics Platform
+# 🚀 Vertus -  Job Tracker & Analytics Platform
 
 A full-stack SaaS-style application designed to help users **track job applications, manage interview pipelines, and gain actionable insights through analytics dashboards**.
 
@@ -8,7 +8,7 @@ Built with a modern **React + FastAPI + PostgreSQL + AWS deployment architecture
 
 ## 📌 Overview
 
-Smart Job Tracker is a production-style job application management platform that enables users to:
+Vertus is a production-style job application management platform that enables users to:
 
 * Track job applications across different stages
 * Manage interview pipelines
@@ -114,7 +114,7 @@ This project was built to showcase **full-stack engineering capabilities**, **cl
 ## 📁 Project Structure
 
 ```text
-smart-job-tracker/
+vertus-job-tracker/
 │
 ├── frontend/
 │   ├── src/
